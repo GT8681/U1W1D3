@@ -1,8 +1,9 @@
 .pagina{
     text-align: center;
+   margin-inline: auto;
   }
   .image{
-    width: 150px;
+    width: 200px;
     
   }
   .riga1{

@@ -1,6 +1,6 @@
 .pagina{
     text-align: center;
-   margin-inline: auto;
+   
   }
   .image{
     width: 200px;
@@ -11,6 +11,15 @@
     background-color: rgb(255, 232, 196);
     padding: 20px;
   }
-  .p1{
+  .p3{
+    
+   color: red;
+   border :left 10px solid red;
    
+  }
+  
+  main{
+    max-width: 600px;
+    margin-inline: auto;
+    
   }

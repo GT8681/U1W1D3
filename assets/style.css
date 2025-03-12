@@ -12,14 +12,33 @@
     padding: 20px;
   }
   .p3{
-    
-   color: red;
-   border :left 10px solid red;
+        border-left: 1px solid rgb(30, 26, 16);
+        padding-left: 1rem;
+        margin-top: 2rem;
+         
+
+    border-color: aliceblue;
    
+ 
+  
   }
   
   main{
-    max-width: 600px;
+    max-width: 662px;
     margin-inline: auto;
     
+    
+  }
+  .p1{
+    text-align: left;
+    width: 710px;
+    
+  }
+  h1{
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .p3 span{
+    color: red;
+    display: block;
   }

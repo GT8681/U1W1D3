@@ -1,7 +1,4 @@
-.pagina{
-    text-align: center;
-   
-  }
+
   .image{
     width: 200px;
     
@@ -12,23 +9,16 @@
     padding: 20px;
   }
   .p3{
-        border-left: 1px solid rgb(30, 26, 16);
+        border-left: 1px solid rgb(180, 140, 38);
         padding-left: 1rem;
         margin-top: 2rem;
-         
-
-    border-color: aliceblue;
-   
- 
-  
-  }
+       
+    }
   
   main{
-    max-width: 662px;
+    max-width: 690px;
     margin-inline: auto;
-    
-    
-  }
+     }
   .p1{
     text-align: left;
     width: 710px;
@@ -41,4 +31,22 @@
   .p3 span{
     color: red;
     display: block;
+  }
+
+  .p3 a{
+    color: rgb(255,217,119);
+  }
+  nav{
+    background-color: rgb(254,251,241);
+    padding: 1rem 0;
+    border-top: 1px solid rgb(255,217,119);
+    font-size: 0.8rem;
+    margin-bottom: 4rem;
+
+  }
+  nav span{
+    font-weight: 800;
+  }
+  header{
+    text-align: center;
   }
